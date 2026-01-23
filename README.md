@@ -1,9 +1,9 @@
 # Mac-stuff
 
 ### Platform
-Offsets for intel version
+Offsets for x86_64
 
-### Download intel version
+### Download x86_64 version
 Script (not made by me):
 
 ```bash
